@@ -17,13 +17,16 @@ This application provides a user management system with the following features:
 
 The users list is fetched from the following API: [https://jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users). Each user has an avatar fetched from [RoboHash](https://robohash.org).
 
-
 ## How to Run
 
 1. Clone the repository.
 2. Install dependencies using `npm install`.
 3. Run the application using `npm run dev`.
 4. Open your browser and navigate to `http://localhost:3000`.
+
+## Live Demo
+
+Check out the live demo of the application [here](https://users-management-three.vercel.app/).
 
 ## Technologies Used
 
